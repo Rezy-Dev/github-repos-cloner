@@ -1,2 +1,7 @@
 # github-repos-cloner
-- This is part of my personal practice project.
+- Feel free to download and use it for personal use.
+
+
+
+----------
+# contribution will appriciated!!
